@@ -1,1 +1,1 @@
-# AplikacjaDesktropowa
+# AplikacjaDesktopowa
