@@ -11,6 +11,15 @@ class Aplikacja:
         self.text7 = tk.StringVar()
         self.text8 = tk.StringVar()
 
+        self.tekst1 = tk.Label()
+        self.tekst1 = tk.Label()
+        self.tekst1 = tk.Label()
+        self.tekst1 = tk.Label()
+        self.tekst1 = tk.Label()
+        self.tekst1 = tk.Label()
+        self.tekst1 = tk.Label()
+        self.tekst1 = tk.Label()
+
 
 
 
